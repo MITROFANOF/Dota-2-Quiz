@@ -7,7 +7,12 @@ public class ExpertMode : MonoBehaviour
     [SerializeField] private Toggle toggle;
     [SerializeField] private Material grayscaleMaterial;
 
-    public static bool IsEnabled;
+    public static bool IsEnabled = false;
+
+    private void Start()
+    {
+        Switch();
+    }
 
     public void Switch()
     {
@@ -18,9 +23,4 @@ public class ExpertMode : MonoBehaviour
         else
             question.material = null;
     }
-}
-
-public class ExpertModeM
-{
-
 }

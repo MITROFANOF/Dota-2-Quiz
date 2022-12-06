@@ -6,6 +6,12 @@ public class Score : MonoBehaviour
     private const int expertModeMultiplier = 2;
 
     public int Value { get; private set; } = 0;
+    public int Highscore { get; private set; }
+
+    private void Awake()
+    {
+        Highscore = PlayerPrefs.GetInt("Highscore");
+    }
 
     private void OnEnable()
     {
@@ -23,18 +29,37 @@ public class Score : MonoBehaviour
     {
         Value += scorePerAnswer;
 
+        if (ExpertMode.IsEnabled)
+            Value += scorePerAnswer;
+
+        AddComboScore();
+
+        if (Value > Highscore)
+        {
+            Highscore = Value;
+            PlayerPrefs.SetInt("Highscore", Highscore);
+        }
+    }
+
+    private void AddComboScore()
+    {
         if (Combo.Count < 2) return;
 
         Value += Combo.Count;
 
         if (ExpertMode.IsEnabled)
             Value += Combo.Count * expertModeMultiplier;
-
-        print(Value);
     }
 
     private void ResetScore()
     {
         Value = 0;
+    }
+
+    [ContextMenu("Reset highscore")]
+    private void ResetHighscore()
+    {
+        Highscore = 0;
+        PlayerPrefs.SetInt("Highscore", Highscore);
     }
 }
