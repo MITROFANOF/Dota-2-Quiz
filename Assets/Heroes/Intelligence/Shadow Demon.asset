@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Shadow Demon
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 4dd9956747f877042aed5400d5f50d54, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 99f5232057575db4aad3811a9c239315, type: 3}
+  - {fileID: 21300000, guid: bf2ef45a7749ab24ca850917d36653c4, type: 3}
+  - {fileID: 21300000, guid: f5a0d324494a4ba498963a48aaeb842e, type: 3}
+  - {fileID: 21300000, guid: d99de944592fa064c811171362fd63df, type: 3}
+  - {fileID: 21300000, guid: c70724a35ee38d548a09c23fe2d8ccf2, type: 3}
+  - {fileID: 21300000, guid: 53caad9b73b1d21489e2f58d226d7a2c, type: 3}

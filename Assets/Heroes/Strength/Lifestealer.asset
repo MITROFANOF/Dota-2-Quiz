@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Lifestealer
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 11b409ff76b6f5246aa8f3404f08d5e6, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 88cdf4862c7eb304a953d773dfe096ea, type: 3}
+  - {fileID: 21300000, guid: 2ae1a6c781373d54f84dd27ed698eb10, type: 3}
+  - {fileID: 21300000, guid: 16f3ca33eb3c05d47afb47adbaa0eb6f, type: 3}
+  - {fileID: 21300000, guid: 3191a1cc5be6f8444ba59a426fe1afb3, type: 3}
+  - {fileID: 21300000, guid: f1d50d198dfca364daaea8d2d48e8307, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Tiny
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 89bb9e4867f0ee84f8163f0f983c43c9, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 2790366fd7391e1468fe725565e1f3f2, type: 3}
+  - {fileID: 21300000, guid: 5245cbab257579343beb57cbb0c9e4a3, type: 3}
+  - {fileID: 21300000, guid: 1d8a1ac9f03a7a94eb76b8e35c6a1a11, type: 3}
+  - {fileID: 21300000, guid: 6403caec406136b4e95b985e9b0632e9, type: 3}
+  - {fileID: 21300000, guid: 8cd38e7dfabb3934081788a658915ec3, type: 3}
+  - {fileID: 21300000, guid: e5861a36fa098374386fca60f1907961, type: 3}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Lycan
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: a4c3acc59980f9340b014e9c9f14bf14, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 8dd0de7b4c0d0c5488822c830cbe650e, type: 3}
+  - {fileID: 21300000, guid: 5fe686f2bd3a45941b07461383c4baf6, type: 3}
+  - {fileID: 21300000, guid: 4d519125b4524bb4c897aefbd1bebfca, type: 3}
+  - {fileID: 21300000, guid: da05c99710486f845a244f8d867b692b, type: 3}
+  - {fileID: 21300000, guid: e06216509d15e634c8d701a92b0b040e, type: 3}
+  - {fileID: 21300000, guid: b56291f80c29dcb4891f102874712b56, type: 3}
+  - {fileID: 21300000, guid: b5c8657a34f79d04084297ab0a5c1058, type: 3}

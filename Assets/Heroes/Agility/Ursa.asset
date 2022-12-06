@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Ursa
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 95d47b99928f0d8478b36b22ddc39ea9, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 33b1e63fc9cd4b247a90c0936c3cb3ea, type: 3}
+  - {fileID: 21300000, guid: a8296cbe9a5e5624f8dea36d45a47490, type: 3}
+  - {fileID: 21300000, guid: b3813778cf28e584f9ae3d169594b8a2, type: 3}
+  - {fileID: 21300000, guid: 8320c144605654c4c9c04cdb18d122d7, type: 3}

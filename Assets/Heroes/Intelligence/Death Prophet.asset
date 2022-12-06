@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Death Prophet
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 318dd3c86a72f8543bae4ad9af89c7bc, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 81e99b91ccba0ab4485932ad003fdaa4, type: 3}
+  - {fileID: 21300000, guid: d30e6a2374152bd4fa4d104518cb4452, type: 3}
+  - {fileID: 21300000, guid: a9db99d6d781ebc40b0ac032c3376967, type: 3}
+  - {fileID: 21300000, guid: f202578d114f85348921c511bd486fc2, type: 3}

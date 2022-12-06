@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Necrophos
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: add8812ec8b278b47a5095044973b0c1, type: 3}
+  skills:
+  - {fileID: 21300000, guid: bab338101ca39414a883f9dd682c7572, type: 3}
+  - {fileID: 21300000, guid: a1c08ba5073bfc44681d39ba3e09f6c3, type: 3}
+  - {fileID: 21300000, guid: 4e4713d389025314eac08ffc70e800d7, type: 3}
+  - {fileID: 21300000, guid: 633fdfb1b37189a44822834160100d57, type: 3}
+  - {fileID: 21300000, guid: ea765950281f5494487229d6e445ee1c, type: 3}

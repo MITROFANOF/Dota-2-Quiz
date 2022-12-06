@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Winter Wyvern
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 7528ad68d61aa624e8d1b7364c908fd0, type: 3}
+  skills:
+  - {fileID: 21300000, guid: a2f34fe4a09f45244b69bfeb026c901b, type: 3}
+  - {fileID: 21300000, guid: c9395cec49d9de74493ffbdf43e3d311, type: 3}
+  - {fileID: 21300000, guid: 25ca7f20422f3e246ac04c179187d510, type: 3}
+  - {fileID: 21300000, guid: 27ecb532f6ef46f4689774967d3f895b, type: 3}

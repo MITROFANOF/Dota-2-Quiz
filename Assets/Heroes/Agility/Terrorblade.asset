@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Terrorblade
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: c15ff0abb2f277f49818d8859c1adebd, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 7e4a8cf68a8f6a94ebddcecb11445a46, type: 3}
+  - {fileID: 21300000, guid: 6abd1d2a27cdffc4bba431af3b9e8e6f, type: 3}
+  - {fileID: 21300000, guid: 4a52e28eb0d8d6642ae9ac46d490c62b, type: 3}
+  - {fileID: 21300000, guid: 2280d3a20690cfa4684303ec3bd8f486, type: 3}
+  - {fileID: 21300000, guid: c7553d9d7dd17e24a80c12dd54f8ff35, type: 3}
+  - {fileID: 21300000, guid: 81e728b2242d44b4cbd323cf4f71f23a, type: 3}

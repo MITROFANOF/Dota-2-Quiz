@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Spectre
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 22005980800301f46aafcb3d449fb1b0, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 4ca2ab1402456d1469bb314638d9b2c4, type: 3}
+  - {fileID: 21300000, guid: 9cd40d1da9af726439cb6719d9582b73, type: 3}
+  - {fileID: 21300000, guid: e478d342f38d06f4f85e816402791cc0, type: 3}
+  - {fileID: 21300000, guid: 11cda26d8f720004a9c86e8051e947f6, type: 3}
+  - {fileID: 21300000, guid: 853cd61dd80a8b748bda0aa07d7f1e70, type: 3}
+  - {fileID: 21300000, guid: 1294e9a531a0f8d4293786d2c545e5b2, type: 3}

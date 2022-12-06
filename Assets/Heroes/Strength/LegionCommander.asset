@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: LegionCommander
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: a7c3b5e27be38a440a3b1a518ba779e8, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 87bddfd05405dc647a4149f438192c35, type: 3}
+  - {fileID: 21300000, guid: 740afb4ccc20be24fae555919ca2436e, type: 3}
+  - {fileID: 21300000, guid: 20351c06c3a0c834b940dca2bb5f7990, type: 3}
+  - {fileID: 21300000, guid: a38e3db78c364404ebcee7e45fb5c9b6, type: 3}

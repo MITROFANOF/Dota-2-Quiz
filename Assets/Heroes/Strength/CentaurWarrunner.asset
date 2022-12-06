@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: CentaurWarrunner
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: e523d96afcec3bb4d9bb02571daef322, type: 3}
+  skills:
+  - {fileID: 21300000, guid: f54224785bf7af6458911e4ddd20d948, type: 3}
+  - {fileID: 21300000, guid: a7fde5bfcb174f446a2cf933c3e2e884, type: 3}
+  - {fileID: 21300000, guid: e2ca48315aeeacb448777973b4d72af7, type: 3}
+  - {fileID: 21300000, guid: 74f64a75ff77139419cc1965c4df7e35, type: 3}
+  - {fileID: 21300000, guid: da051d10036eb6045ae8f38c8ecdde35, type: 3}

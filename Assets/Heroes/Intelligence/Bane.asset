@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Bane
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 9d20d0f0d6e689444bbe0d1406f89fc6, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 67c6454885744f24b88b765232bc944d, type: 3}
+  - {fileID: 21300000, guid: f601f07b35148e14e873b3aa36007d8f, type: 3}
+  - {fileID: 21300000, guid: d4ac7199346692740bb0a63212e2c513, type: 3}
+  - {fileID: 21300000, guid: 241dd44efd83ffb418ecb20f9932e8a0, type: 3}
+  - {fileID: 21300000, guid: 62920f3bc8139474e9c1f9af067eaafc, type: 3}

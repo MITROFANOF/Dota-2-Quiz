@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: PrimalBeast
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 1985f9ada563541409814b6764f64f2f, type: 3}
+  skills:
+  - {fileID: 21300000, guid: d50eaf0a7d86c2547abddd972c8c1939, type: 3}
+  - {fileID: 21300000, guid: ad214071edab495448901f88ab2eeb09, type: 3}
+  - {fileID: 21300000, guid: 6c32f0d254f64ef468db1afc78737914, type: 3}
+  - {fileID: 21300000, guid: ed3f9a443395cfe4da117bf38445c2cf, type: 3}
+  - {fileID: 21300000, guid: 497ac2d6dfde36645a6db7ac057753c9, type: 3}
+  - {fileID: 21300000, guid: 4cd5387b193b4224a80dd71a615806f3, type: 3}

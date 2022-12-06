@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Underlord
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: b6de4405462cc7e41abf460920b22509, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 2759dda1453ab1d459a87ebe6b0b345c, type: 3}
+  - {fileID: 21300000, guid: cc5cb653820043844acab9b278f479fb, type: 3}
+  - {fileID: 21300000, guid: b2064d8028e3617418629419f088b4e5, type: 3}
+  - {fileID: 21300000, guid: c3046368a09ec5849b488b512513f63a, type: 3}
+  - {fileID: 21300000, guid: 2d29c6a7c7fc38141bcf467a6f7d33f5, type: 3}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: ChaosKnight
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 72929c3097fb7b443b19902d5ef57be1, type: 3}
+  skills:
+  - {fileID: 21300000, guid: df1f9d99fe100da45bf52973818fbc41, type: 3}
+  - {fileID: 21300000, guid: a0c208c62096a414ead08524f6fa53f2, type: 3}
+  - {fileID: 21300000, guid: cc2f69e6176502a4bb289b74d41c1da7, type: 3}
+  - {fileID: 21300000, guid: 906361cc98126f747a999ce8ae64ac33, type: 3}

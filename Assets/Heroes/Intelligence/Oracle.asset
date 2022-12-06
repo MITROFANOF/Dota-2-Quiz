@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Oracle
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 0538ab7a4f25fda4d8e30d288a693390, type: 3}
+  skills:
+  - {fileID: 21300000, guid: ec1ff68e7a7a3bf45b6898711ac73574, type: 3}
+  - {fileID: 21300000, guid: 8283ef5744fd94d40b396addd76a5ebb, type: 3}
+  - {fileID: 21300000, guid: b5a960ebfffa75c4a8e6f045c44461b7, type: 3}
+  - {fileID: 21300000, guid: 5332b3d5682f73e43858b1be70d29bd6, type: 3}

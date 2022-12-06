@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Phantom Assassin
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: f01606bde2292b840a746c8c20d0a9aa, type: 3}
+  skills:
+  - {fileID: 21300000, guid: de435538067829440a3a0c8aae5e6f41, type: 3}
+  - {fileID: 21300000, guid: a33e43d991ddfda4cbdced13f66cd75e, type: 3}
+  - {fileID: 21300000, guid: 4edf193be377fcf46905145d3387f354, type: 3}
+  - {fileID: 21300000, guid: f47a043a566f5204eb3c1ae8218bf967, type: 3}
+  - {fileID: 21300000, guid: ddc5625150b732948b69357b716257ad, type: 3}

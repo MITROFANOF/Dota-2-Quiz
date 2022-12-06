@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Keeper of the Light
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: c12307db5c00a01439042ab87c7ef5f5, type: 3}
+  skills:
+  - {fileID: 21300000, guid: faf65fe20ab1d6b488dd738b42d92245, type: 3}
+  - {fileID: 21300000, guid: adb2c468e0cf04b4c8cb6f2834550f29, type: 3}
+  - {fileID: 21300000, guid: fdc7256e022c36e41b7c16772b74cff0, type: 3}
+  - {fileID: 21300000, guid: c10426c3babb02c47b1e5e51bd3061d2, type: 3}
+  - {fileID: 21300000, guid: 887dccc6d4a5f994e85ec032c3134187, type: 3}
+  - {fileID: 21300000, guid: 7798379a49b549d4da6e094881fb6ea1, type: 3}
+  - {fileID: 21300000, guid: 326e2fc6998113141ad6f7148ed147d3, type: 3}
+  - {fileID: 21300000, guid: 89b11c0f8fb7d7b488934edd5fa55c8f, type: 3}
+  - {fileID: 21300000, guid: bc72ccdf9d9c4ca488b5787d7b8a2217, type: 3}
+  - {fileID: 21300000, guid: 1c2a57a004f45784baa3a5fc22a0f790, type: 3}

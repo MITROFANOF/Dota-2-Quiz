@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Chen
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: cab784f08342fbf428fcc4bd08c385b7, type: 3}
+  skills:
+  - {fileID: 21300000, guid: adede5f069c01c642922d204c884add2, type: 3}
+  - {fileID: 21300000, guid: 02299011a5a84914499df20bd2b0b8b7, type: 3}
+  - {fileID: 21300000, guid: 08b1a78beb950a64196a850b109f2d8d, type: 3}
+  - {fileID: 21300000, guid: c928566fecc69794d84f89bcd75400f0, type: 3}

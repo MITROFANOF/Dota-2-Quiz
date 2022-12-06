@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Alchemist
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 4606a7b7ee09ce446b0ac4da040dd046, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 3106816ea4886d74cbdda00565ffdd76, type: 3}
+  - {fileID: 21300000, guid: aca98f8721b261745ad6560d97e0ce88, type: 3}
+  - {fileID: 21300000, guid: e3157b0bacc7bd3499504bd01185713b, type: 3}
+  - {fileID: 21300000, guid: 7476444e0fde5234b8a93d450913746d, type: 3}
+  - {fileID: 21300000, guid: c398fe603e564054590bc556684ed4a9, type: 3}
+  - {fileID: 21300000, guid: f0a15bccffe78fb468829b2098639b01, type: 3}

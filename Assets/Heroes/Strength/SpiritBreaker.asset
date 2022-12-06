@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: SpiritBreaker
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 69edd766b5b0154468bc3ecb8cb46bfd, type: 3}
+  skills:
+  - {fileID: 21300000, guid: e1c9a8c31ead0bb46a04b24ad37ab371, type: 3}
+  - {fileID: 21300000, guid: dd5a3bf132fcb5143af55d0f83a0f88d, type: 3}
+  - {fileID: 21300000, guid: c6fd5f047e4462c409fb7659ce4c2c37, type: 3}
+  - {fileID: 21300000, guid: 9960ff6f01185be4e9eadd3ba295108a, type: 3}

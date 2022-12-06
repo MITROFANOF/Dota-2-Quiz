@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Warlock
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: a304e1bba5e48d940a84472769eb2381, type: 3}
+  skills:
+  - {fileID: 21300000, guid: fe34216884b02434294598ae0f48dcb4, type: 3}
+  - {fileID: 21300000, guid: dca673cceacdc684db6476325f1bf140, type: 3}
+  - {fileID: 21300000, guid: 207279b89adfb3546936eb18235e2e11, type: 3}
+  - {fileID: 21300000, guid: 76434540c3c864e4c9a5c748be0a454e, type: 3}

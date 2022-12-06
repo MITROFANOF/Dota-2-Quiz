@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Abaddon
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 20d9c1627e8f634469f4f7bc292152df, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 9d8b6ee3fa65d0b4aa5117c894c6bc32, type: 3}
+  - {fileID: 21300000, guid: 45514d205cecc754498583312dfc1939, type: 3}
+  - {fileID: 21300000, guid: 1915240d281d12943a4da543f82f551a, type: 3}
+  - {fileID: 21300000, guid: cccf1a3e36be77048925fe4c6b366b33, type: 3}

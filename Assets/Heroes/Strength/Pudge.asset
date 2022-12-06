@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Pudge
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 21c5398d80a27e64b8f37853cb187ba9, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 69df42ad40290b54bbfc4e3966646ebd, type: 3}
+  - {fileID: 21300000, guid: 4892a813506939846ab531e1204b89be, type: 3}
+  - {fileID: 21300000, guid: 2540789d3790bec4992be9f6f0606316, type: 3}
+  - {fileID: 21300000, guid: 5d4df33c42fe7654eb2645772396fe85, type: 3}
+  - {fileID: 21300000, guid: ba901442db32e88419635300fe8f4663, type: 3}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Monkey King
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: b183fbad758997d4097c698e90a7aaf0, type: 3}
+  skills:
+  - {fileID: 21300000, guid: cc6a6aef34d6c734595d14fb7a8b1318, type: 3}
+  - {fileID: 21300000, guid: 2284f50cac22d544d99e12824e77067d, type: 3}
+  - {fileID: 21300000, guid: 68ceb3c80dd06ac46a5883eaa7d8fb17, type: 3}
+  - {fileID: 21300000, guid: 3e91ee5e3555e954f95daafd043e2356, type: 3}
+  - {fileID: 21300000, guid: 6333a10ddbffaff48953d4bc3b3e1299, type: 3}
+  - {fileID: 21300000, guid: 1253f1aa1c8dc204f87f3a9794412b6b, type: 3}
+  - {fileID: 21300000, guid: 39013b59fc9684049bcaad5d279a1c37, type: 3}
+  - {fileID: 21300000, guid: 1fc405ea94662994ba83d9285beb0928, type: 3}

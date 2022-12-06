@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Anti-Mage
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 9ad0068e6d4bbc746b8ba63d84ae32ff, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 10293c3ce2e8d704cbe4e19976cf3dd4, type: 3}
+  - {fileID: 21300000, guid: a3774a35f6d716d49b903227491fdead, type: 3}
+  - {fileID: 21300000, guid: 63a75b09547313044815b0dd9bf017a7, type: 3}
+  - {fileID: 21300000, guid: e82ac68ae0abf8e4da8e53a1c15dfe15, type: 3}
+  - {fileID: 21300000, guid: f6cfa2faf67cb264d9985dd753c7580e, type: 3}

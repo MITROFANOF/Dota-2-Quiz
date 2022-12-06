@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Enigma
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: d5104e47c292b0648ac96e52bdaa6ce3, type: 3}
+  skills:
+  - {fileID: 21300000, guid: eb453e53c2e980f42bf9f73efa68edd4, type: 3}
+  - {fileID: 21300000, guid: b6a807c72fb954646869b006c2456c11, type: 3}
+  - {fileID: 21300000, guid: 7b9e44b2256c30d4181d0b40766243a5, type: 3}
+  - {fileID: 21300000, guid: b0d3fb89b8d5e444d89149c88396f43b, type: 3}

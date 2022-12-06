@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Magnus
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 4fe4ffae34512584d8a5580beab874d3, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 3ba7cb402ecb6404e9c06db5922c3c8f, type: 3}
+  - {fileID: 21300000, guid: 0303b0b423f0a0542b1e9e9180b86087, type: 3}
+  - {fileID: 21300000, guid: b9a37d758e4d22f428f22d26ae97ceda, type: 3}
+  - {fileID: 21300000, guid: 984515673a7f5e546ae37a1e7d11b5ab, type: 3}
+  - {fileID: 21300000, guid: a5d6eb24cd8a42b4484a632f62e47255, type: 3}

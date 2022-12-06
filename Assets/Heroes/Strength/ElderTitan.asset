@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: ElderTitan
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: bcf79a6c1d2164844a7342c4abe0259c, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 1690387e100daf645b17779d16c98aec, type: 3}
+  - {fileID: 21300000, guid: 33b40e161e8267c4daabc48cc4a98fe8, type: 3}
+  - {fileID: 21300000, guid: 5f89e75fbe65e434a80c3283b4e08679, type: 3}
+  - {fileID: 21300000, guid: 6fcc8ad722f3ae04b9de358002b7367f, type: 3}
+  - {fileID: 21300000, guid: c1515be9a5346804c9d300a27d5fbd84, type: 3}
+  - {fileID: 21300000, guid: c0b093e11bfc74a4b810bfb45bedf5a9, type: 3}
+  - {fileID: 21300000, guid: 0672046215dfd0e4b8ec86e44b26f85f, type: 3}
+  - {fileID: 21300000, guid: 32934443dd708ea45b6f695e4f3e2120, type: 3}

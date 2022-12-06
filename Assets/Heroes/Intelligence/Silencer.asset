@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Silencer
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 3b68f2fd4be80ea42803735bd76055ec, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 349e53700dbd29c4d98d8a4dc7eae212, type: 3}
+  - {fileID: 21300000, guid: b11e682d756f3fc488c72a812f12fb71, type: 3}
+  - {fileID: 21300000, guid: 82fab1d66af919c47b17b1922a64ad0c, type: 3}
+  - {fileID: 21300000, guid: d552e06df29cd754badd380800196076, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Troll Warlord
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: c5f1a2deaa9018e48b88fedd9b4530e0, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 6627c881aaade3a4eade5a1da9cf218b, type: 3}
+  - {fileID: 21300000, guid: ca0353a95a4adbe438632248a00a62db, type: 3}
+  - {fileID: 21300000, guid: f33960940d26c2840af6a9f7c583a657, type: 3}
+  - {fileID: 21300000, guid: 1be3ef1ea1d99954887dc0f65884775c, type: 3}
+  - {fileID: 21300000, guid: 41856d2f1a08b344a9b50010bc5edca3, type: 3}
+  - {fileID: 21300000, guid: 7ea8dedcb3108e241b82dceea5272eac, type: 3}

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Rubick
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 8ec9dd49efb7bab439382e6f3502292b, type: 3}
+  skills:
+  - {fileID: 21300000, guid: ba340791745e2ec4f888164204c2c257, type: 3}
+  - {fileID: 21300000, guid: 62e068d36efa6234ca25f494445bdb12, type: 3}
+  - {fileID: 21300000, guid: 7afed26943887004ab56eb78ebbacdc1, type: 3}
+  - {fileID: 21300000, guid: f40904cda988d1a429407bdbeb2ad2ec, type: 3}
+  - {fileID: 21300000, guid: 45780b738f335fe4b97c1e5adeceb80c, type: 3}

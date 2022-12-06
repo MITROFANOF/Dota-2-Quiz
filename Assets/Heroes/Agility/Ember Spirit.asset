@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Ember Spirit
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 018fa104d1d2afa42b28d573a7122541, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 34854393143e7d347bc7cb1e83287012, type: 3}
+  - {fileID: 21300000, guid: 37f230159f4efd64bb7de5475bdeff41, type: 3}
+  - {fileID: 21300000, guid: ba0451c08d5df4c448560626064b6f68, type: 3}
+  - {fileID: 21300000, guid: 7e93b2920729a8d4ca2f327c0f9ad406, type: 3}
+  - {fileID: 21300000, guid: e2fae8ff18d896f458bcdd211688b0bd, type: 3}

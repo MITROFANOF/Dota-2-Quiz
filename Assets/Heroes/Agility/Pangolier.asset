@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604b8a3d76918e641b0fb3fe6e92d81a, type: 3}
+  m_Name: Pangolier
+  m_EditorClassIdentifier: 
+  portrait: {fileID: 21300000, guid: 805a17bf5df554b4480a0cc46a81aa28, type: 3}
+  skills:
+  - {fileID: 21300000, guid: 16037602145a44e47959248e19c8a09b, type: 3}
+  - {fileID: 21300000, guid: ffd72e8e33c0181418bbc10191c3fa5c, type: 3}
+  - {fileID: 21300000, guid: 34eab2ab6891a604495868a916993885, type: 3}
+  - {fileID: 21300000, guid: 32ad503784c85364296f26a409f77371, type: 3}
+  - {fileID: 21300000, guid: 585fe873fee907949ba2f9d6ce1c8885, type: 3}
+  - {fileID: 21300000, guid: e6719a660b46f634d946c8e08a8ca82e, type: 3}
