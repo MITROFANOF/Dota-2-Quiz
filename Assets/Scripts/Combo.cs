@@ -23,18 +23,17 @@ public class Combo : MonoBehaviour
     private void Awake()
     {
         baseLocalPosition = transform.localPosition;
+        ResetComboCounter();
     }
 
     private void OnEnable()
     {
-        GameEvents.onGameStarted += ResetComboCounter;
         GameEvents.onWrongAnswer += ResetComboCounter;
         GameEvents.onCorrectAnswer += AddComboCounter;
     }
 
     private void OnDisable()
     {
-        GameEvents.onGameStarted -= ResetComboCounter;
         GameEvents.onWrongAnswer -= ResetComboCounter;
         GameEvents.onCorrectAnswer -= AddComboCounter;
     }
