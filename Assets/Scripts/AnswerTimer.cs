@@ -7,6 +7,8 @@ public class AnswerTimer : MonoBehaviour
     [SerializeField] private Image timerLoop;
     [SerializeField] private Image timerArrow;
 
+    [SerializeField] private Score score;
+
     [SerializeField] private float startTime = 30f;
     [SerializeField] private float remainingTime;
     [SerializeField] private float extraTimePerAnswer = 3f;
@@ -42,7 +44,7 @@ public class AnswerTimer : MonoBehaviour
     public void AddTime()
     {
         //Формула прибавки времени в зависимости от заработанных очков
-        remainingTime += extraTimePerAnswer - Mathf.Clamp(Score.Count / (5f * extraTimePerAnswer), 0, extraTimePerAnswer) + 1.5f;
+        remainingTime += extraTimePerAnswer - Mathf.Clamp(score.Value / (5f * extraTimePerAnswer), 0, extraTimePerAnswer) + 1.5f;
         startTime = remainingTime;
     }
 }

@@ -5,7 +5,7 @@ public class Score : MonoBehaviour
     private const int scorePerAnswer = 1;
     private const int expertModeMultiplier = 2;
 
-    public static int Count { get; private set; } = 0;
+    public int Value { get; private set; } = 0;
 
     private void OnEnable()
     {
@@ -21,20 +21,20 @@ public class Score : MonoBehaviour
 
     private void AddScore()
     {
-        Count += scorePerAnswer;
+        Value += scorePerAnswer;
 
         if (Combo.Count < 2) return;
 
-        Count += Combo.Count;
+        Value += Combo.Count;
 
         if (ExpertMode.IsEnabled)
-            Count += Combo.Count * expertModeMultiplier;
+            Value += Combo.Count * expertModeMultiplier;
 
-        print(Count);
+        print(Value);
     }
 
     private void ResetScore()
     {
-        Count = 0;
+        Value = 0;
     }
 }

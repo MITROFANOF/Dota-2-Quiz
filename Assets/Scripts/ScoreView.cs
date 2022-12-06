@@ -4,6 +4,8 @@ using UnityEngine;
 public class ScoreView : MonoBehaviour
 {
     [SerializeField] private TextMeshProUGUI scoreLabel;
+    [SerializeField] private Highscore highscore;
+    [SerializeField] private Score score;
 
     private void OnEnable()
     {
@@ -17,6 +19,6 @@ public class ScoreView : MonoBehaviour
 
     private void ShowScore()
     {
-        scoreLabel.text = $"Твой результат: {Score.Count}";
+        scoreLabel.text = $"Твой результат: {score.Value}\nЛучший результат: {highscore.Value}";
     }
 }
