@@ -725,7 +725,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 448295907}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1258594842}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: ShareHighscore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &448295907
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2987,7 +2999,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!223 &1237063954
 Canvas:
   m_ObjectHideFlags: 0

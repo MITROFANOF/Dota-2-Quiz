@@ -1,7 +1,11 @@
-﻿using UnityEngine;
+﻿using System.Runtime.InteropServices;
+using UnityEngine;
 
 public class Score : MonoBehaviour
 {
+    [DllImport("__Internal")]
+    public static extern void ShareHighScore(int value, bool hardmode);
+
     private const int scorePerAnswer = 1;
     private const int expertModeMultiplier = 2;
 
@@ -61,5 +65,10 @@ public class Score : MonoBehaviour
     {
         Highscore = 0;
         PlayerPrefs.SetInt("Highscore", Highscore);
+    }
+
+    public void ShareHighscore()
+    {
+        ShareHighScore(Highscore, ExpertMode.IsEnabled);
     }
 }
